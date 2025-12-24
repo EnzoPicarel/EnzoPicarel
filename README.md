@@ -14,4 +14,4 @@ I am a Software Engineering Student at **ENSEIRB-MATMECA** (Bordeaux, France), s
 
 ### 📫 Connect with me
 * 💼 [LinkedIn](https://www.linkedin.com/in/enzo-picarel/)
-* 📧 enzo.picarel@bordeaux-inp.fr
+* 📧 [Email](mailto:enzo.picarel@bordeaux-inp.fr)
