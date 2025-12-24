@@ -12,11 +12,6 @@ I am a Software Engineering Student at **ENSEIRB-MATMECA** (Bordeaux, France), s
 
 ---
 
-### 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=EnzoPicarel&show_icons=true&theme=radical)
----
-
 ### 📫 Connect with me
 * [LinkedIn](https://www.linkedin.com/in/enzo-picarel/)
 * 📧 enzo.picarel@bordeaux-inp.fr
