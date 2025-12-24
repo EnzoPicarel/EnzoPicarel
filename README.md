@@ -1,5 +1,5 @@
 # Hi, I'm Enzo Picarel! 👋
-I am a Software Engineering Student at **ENSEIRB-MATMECA** (Bordeaux, France), specializing in **AI**.
+I am a MSc CS Student at **ENSEIRB-MATMECA**, specializing in **AI**.
 ---
 ### 🛠️ Technical Stack
 * **Languages:** Python, C, C++, Java, JS/TS, SQL, PHP, CSS, HTML.
