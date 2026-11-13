@@ -22,11 +22,11 @@ I build applied machine-learning systems, from convolutional neural networks and
 | Project | What it demonstrates |
 |---|---|
 | [AI Document Pipeline](https://github.com/EnzoPicarel/ai-document-pipeline) | Local LLM pipeline for extracting structured information from scientific papers, matching AI algorithms to source code, and generating comparison reports |
-| [Cancer Mortality Regression](https://github.com/EnzoPicarel/cancer-mortality-regression) | Tabular regression with feature engineering, Ridge and gradient boosting ensembles, reproducible evaluation, and death-feature ablation |
+| [Tree Ensemble Benchmark](https://github.com/EnzoPicarel/tree-ensemble-benchmark) | NumPy CART implementation, tree-ensemble comparisons, out-of-fold stacking, and reproducible accuracy–cost evaluation |
+| [Restaurant Ordering System](https://github.com/EnzoPicarel/postgres-ordering-system) | Team-developed PHP application with PostgreSQL transactions, database business rules, PostGIS delivery-zone checks, and Docker |
 | [Go Position Evaluator](https://github.com/EnzoPicarel/go-position-evaluator) | PyTorch CNN, spatial feature engineering, symmetry-based augmentation, and leakage-safe validation |
-| [Captcha Breaking Benchmark](https://github.com/EnzoPicarel/captcha-breaking-benchmark) | Human-vs-bot classification with Gaussian Naive Bayes, logistic regression, and a neural network implemented from scratch |
-| [CSP Map Coloring](https://github.com/EnzoPicarel/csp-map-coloring) | Backtracking, MRV, and Forward Checking with validated solutions, independent seeded trials, and reproducible benchmarks |
-| [Spotify PCA Engine](https://github.com/EnzoPicarel/spotify-pca-engine) | PCA implemented from scratch with NumPy, eigendecomposition, inference, and data visualization |
+| [Cancer Mortality Regression](https://github.com/EnzoPicarel/cancer-mortality-regression) | Tabular regression with feature engineering, Ridge and gradient boosting ensembles, reproducible evaluation, and death-feature ablation |
+| [Bot Detection Benchmark](https://github.com/EnzoPicarel/bot-detection-benchmark) | Human-vs-bot classification with Gaussian Naive Bayes, logistic regression, and a neural network implemented from scratch |
 
 
 ## 🛠️ Technical Stack
