@@ -1,10 +1,10 @@
 # Hi, I'm Enzo Picarel! 👋
 
 
-I am a **MEng student in Artificial Intelligence at the University of Cincinnati**, completing a dual-degree engineering program with **Bordeaux INP — ENSEIRB-MATMECA**.
+I am pursuing a **Master of Engineering in Artificial Intelligence** at the **University of Cincinnati (2026–2027)**, after earning a **Bachelor of Science in Computer Science** at the **Bordeaux Institute of Technology (2022–2026)**.
 
 
-I build applied machine-learning systems, from convolutional neural networks and evaluation pipelines to local LLM, retrieval, and structured-data workflows.
+I build end-to-end machine-learning systems—from data preparation and model training to reproducible evaluation. My work spans computer vision, LLM-powered document processing, information retrieval, and data engineering.
 
 
 ## 🔍 Current Focus
